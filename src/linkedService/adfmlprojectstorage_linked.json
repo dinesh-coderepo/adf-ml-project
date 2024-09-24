@@ -1,0 +1,10 @@
+{
+	"name": "adfmlprojectstorage_linked",
+	"properties": {
+		"annotations": [],
+		"type": "AzureBlobFS",
+		"typeProperties": {
+			"url": "https://adfmlprojectstorage.dfs.core.windows.net/"
+		}
+	}
+}
