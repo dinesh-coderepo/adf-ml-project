@@ -1,0 +1,2 @@
+python3 scripts/mnist_download.py --storage-account adfmlprojectstorage --container adftrain
+
